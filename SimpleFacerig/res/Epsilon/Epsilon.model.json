@@ -1,0 +1,8 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"Epsilon.moc",
+	"textures":[
+		"Epsilon.2048/texture_00.png"
+	],
+	"physics":"Epsilon.physics.json"
+}
