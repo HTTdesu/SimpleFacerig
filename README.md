@@ -1,12 +1,10 @@
 # SimpleFacerig
 Simple motion capture based on dlib and Live2D
 ## Depedency
-<div vertical-align="middle" line-height="64px">
-  <span>
-    <a href="https://opencv.org/">
-      <img src="https://opencv.org/assets/theme/logo.png" width="128px" height="64px">OpenCV
-    </a> Ver: 3.4.1 32-bit
-  </span>
+<div style="background:url('https://opencv.org/assets/theme/logo.png') no-repeat fixed center;">
+  <a href="https://opencv.org/">
+    OpenCV
+  </a> Ver: 3.4.1 32-bit
 </div>
 <div style="vertical-align:middle;line-height:64px;"><img src="http://dlib.net/dlib-logo.png" width="128px" maxHeight="64px">[Dlib](http://dlib.net/) Ver: 19.10 32-bit</div>
 <div style="vertical-align:middle;line-height:64px;"><img src="http://www.live2d.com/wp/wp-content/themes/Live2Dv3/images/logo.png" width="128px" maxHeight="64px">[Live2D SDK](http://www.live2d.com/) Ver: 2.1 32-bit</div>
